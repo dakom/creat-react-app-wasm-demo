@@ -1,0 +1,9 @@
+.app {
+  margin: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  margin-bottom: 20px;
+}
